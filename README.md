@@ -3,7 +3,7 @@
 
 - 🔭My Introductory Work on Analysis [Stock Market Analysis Of Top MNC's](https://github.com/Varunshiyam/Stock_Market_Analysis)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **LLM'S of Machine Learning Algorithms**
 
 - 🚀My Subsequent Project was [Nutritive Analysis](https://github.com/Varunshiyam/nutrition-data-analysis)
 
