@@ -1,12 +1,16 @@
 
 <h1 align="center"> About Me: </h1>
-<span style="color:#1E90FF;"><b>🔭 My Introductory Work on Stock Market Analysis of Top MNCs</b></span><br>
-<span style="color:#FFD700;"><b>🌱 I’m currently learning LLMs of Machine Learning Algorithms</b></span><br>
-<span style="color:#32CD32;"><b>🚀 My Subsequent Project was Nutritive Analysis</b></span><br>
-<span style="color:#FF6347;"><b>👯 I’m looking to collaborate on Data Science Internship</b></span><br>
-<span style="color:#8A2BE2;"><b>👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/varunshiyam" target="_blank">LinkedIn</a></b></span><br>
-<span style="color:#FF1493;"><b>📫 How to reach me: varunshiyam.analyst@gmail.com</b></span>
-<br></br>
+<span style="color:#1E90FF;"><b>🎖️ Ranked 103 out of 60,000 competitors in the GirlScript Summer of Codes GSSoc’24, contributing over 50 successful pull requests.</b></span><br>
+<span style="color:#FFD700;"><b>🚀 Participated as a Contributor in the Winter Of BlockChain Opensource program.</b></span><br>
+<span style="color:#32CD32;"><b>👥 Led a cross-functional team at Karpagam Innovation Centre, guiding the development of a startup.</b></span><br>
+<span style="color:#FF6347;"><b> 🏆 Received five TrailBlazers from SalesForce and holds 50+ Trailhead badges, gaining hands-on experience through TrailHeadPlayground.
+</b></span><br>
+<span style="color:#8A2BE2;"><b> 👾 Currently enrolled in the Google Cloud Arcade Program 2025.</b></span><br>
+
+
+
+ 
+ 
 
 
 <!-- GitHub Stats Header -->
