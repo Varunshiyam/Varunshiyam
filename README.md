@@ -47,8 +47,23 @@
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- GitHub Activity Graph -->
-![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varunshiyam&theme=react-dark&hide_border=true)
+<!-- Badges Earned-->
+<h2><b>Badges Earned</b></h2>
+
+<h3  align="center"> GSSOC'24<h3></h3>
+<p align="center">
+<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="135">
+<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="135">
+<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="135">
+<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="135">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="135">
+<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="140"></p>
+
+
+
+
+
+
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -64,11 +79,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<!-- Developer Quote Section -->
-<h2 align="center"> ✍️ Random Developer Quote </h2>
-<div align="center">
-    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+
 
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
