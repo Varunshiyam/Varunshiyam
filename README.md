@@ -57,9 +57,7 @@
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="135">
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="135">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="140"></p>
-
-<p align="center">
+<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="140">
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png"  width="135">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png"  width="135">
 </p>
