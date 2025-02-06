@@ -64,13 +64,23 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png"  width="135">
 </p>
 
-<h3  align="center"> GSSOC'24<h3></h3>
+<h3  align="center"> PR Badges <h3></h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png"  width="135">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png"  width="135">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png"  width="135">
-
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png"  width="200">
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png"  width="200">
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png"  width="200">
 </p>
+
+<h3  align="center"> HOLOPIN Badges <h3></h3>
+<p align="center">
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp"  width="200">
+<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp"  width="200">
+<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-sparkle-0.webp"  width="200">
+<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-sparkle-moon.webp"  width="200">
+
+
+
+
 
 
 
