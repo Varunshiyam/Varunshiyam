@@ -78,12 +78,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h3  align="center"> HOLOPIN Badges <h3></h3>
-<p align="center">
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-coffee-robe-sparkle-0.webp"  width="200">
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-robe-sparkle-moon.webp"  width="200">
+[![An image of @varunshiyam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varunshiyam)](https://holopin.io/@varunshiyam)
+
 
 
 
