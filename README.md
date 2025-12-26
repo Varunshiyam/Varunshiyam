@@ -167,7 +167,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM.svg"
+  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
        alt="Campuz Navigation"
        width="900" />
 </p>
