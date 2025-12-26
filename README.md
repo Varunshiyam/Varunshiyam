@@ -118,3 +118,27 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
 </p>
+
+
+
+
+
+
+-----------
+
+## 🌌 Featured Constellations
+
+<p align="center">
+  🚀 🪐 🌠 🌌 ⭐
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-theta-hazel-15.vercel.app/api/pin/?username=Varunshiyam&repo=CAMPUZ__NAVIGATION&bg_color=0b0f1a&border_color=7f5af0&title_color=e0e7ff&text_color=9aa4bf&icon_color=2cb67d" />
+</p>
+
+
+
+
+
+
+
