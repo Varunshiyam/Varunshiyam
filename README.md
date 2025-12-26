@@ -176,7 +176,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/Varunshiyam/CRM-Internship-Application-Tracker">
+      <a href="https://github.com/Varunshiyam/CRM-Driven-Internship-Application-Tracker">
         <img
           src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
           alt="CRM Internship Application Tracker"
