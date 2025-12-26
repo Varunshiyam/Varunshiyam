@@ -157,20 +157,38 @@
 
 
 -----
+## 🚀 Projects
 
-## 🚀 Campuz Navigation
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg"
+        alt="Campuz Navigation"
+        width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
+        alt="CRM Internship Application Tracker"
+        width="100%" />
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg"
-       alt="Campuz Navigation"
-       width="900" />
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Fit-Connect/Fit-Connect.svg"
+        alt="Fit-Connect"
+        width="100%" />
+    </td>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
-       alt="Campuz Navigation"
-       width="900" />
-</p>
+   <td align="center" width="50%">
+      <h3>🚧 Coming Soon</h3>
+      <p><em>Next project will be added here</em></p>
+    </td>
+  </tr>
+</table>
 
 
 
