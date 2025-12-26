@@ -153,6 +153,9 @@
 
 
 
+<a href="PROJECT_REPO_URL">
+  <img src="SVG_URL" width="100%" />
+</a>
 
 
 
@@ -162,10 +165,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img
-        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg"
-        alt="Campuz Navigation"
-        width="100%" />
+     <a href="https://github.com/Varunshiyam/CAMPUZ__NAVIGATION">
+  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg" width="100%" />
+</a>
     </td>
     <td align="center" width="50%">
       <img
