@@ -162,35 +162,50 @@
 -----
 ## 🚀 Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-     <a href="https://github.com/Varunshiyam/CAMPUZ__NAVIGATION">
-  <img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg" width="100%" />
-</a>
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
-        alt="CRM Internship Application Tracker"
-        width="100%" />
+    <td align="center">
+      <a href="https://github.com/Varunshiyam/CAMPUZ__NAVIGATION">
+        <img
+          src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Campuz-Navigation/campuz-navigation.svg"
+          alt="Campuz Navigation"
+          width="100%" />
+      </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Fit-Connect/Fit-Connect.svg"
-        alt="Fit-Connect"
-        width="100%" />
+    <td align="center">
+      <a href="https://github.com/Varunshiyam/CRM-Internship-Application-Tracker">
+        <img
+          src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/SalesForce/CRM_card.svg"
+          alt="CRM Internship Application Tracker"
+          width="100%" />
+      </a>
     </td>
+  </tr>
 
-   <td align="center" width="50%">
-      <h3>🚧 Coming Soon</h3>
-      <p><em>Next project will be added here</em></p>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Varunshiyam/Fit-Connect">
+        <img
+          src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Fit-Connect/Fit-Connect.svg"
+          alt="Fit-Connect"
+          width="100%" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img
+          src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Coming-Soon/coming-soon.svg"
+          alt="Coming Soon"
+          width="100%" />
+      </a>
     </td>
   </tr>
 </table>
-
 
 
