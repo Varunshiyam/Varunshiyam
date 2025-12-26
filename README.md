@@ -139,6 +139,18 @@
 
 
 
+------
+
+
+## 🌌 Featured Constellations
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/galaxy/featured-campuz.svg"
+    alt="CAMPUZ Navigation Galaxy Card"
+  />
+</p>
+
 
 
 
