@@ -1,166 +1,187 @@
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=transparent&text=🏄‍♂️%20VARUNSHIYAM%20S&fontColor=ffffff&fontSize=70&animation=fadeIn" />
+</p>
 
-<h1 align="center"> About Me: </h1>
-<span style="color:#1E90FF;"><b>🎖️ Ranked 103 out of 60,000 competitors in the GirlScript Summer of Codes GSSoc’24, contributing over 50 successful pull requests.</b></span><br>
-<span style="color:#FFD700;"><b>🚀 Participated as a Contributor in the Winter Of BlockChain Opensource program.</b></span><br>
-<span style="color:#32CD32;"><b>👥 Led a cross-functional team at Karpagam Innovation Centre, guiding the development of a startup.</b></span><br>
-<span style="color:#FF6347;"><b> 🏆 Received five TrailBlazers from SalesForce and holds 50+ Trailhead badges, gaining hands-on experience through TrailHeadPlayground.
-</b></span><br>
-<span style="color:#8A2BE2;"><b> 👾 Currently enrolled in the Google Cloud Arcade Program 2025.</b></span><br>
+<p align="center"><strong><code>SALESFORCE (CRM)  ||  CLOUD (GCP)  ||  DATA ANALYST </code></strong></p>
+
+<br>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=7F7FFF&center=true&vCenter=true&width=700&lines=Engineering+Systems+Beyond+Limits;Salesforce+++%7C+%7C+++Cloud+++%7C%7C+++Data+Analyst;From+Problem+Solving+to+Production+Systems;Exploring+the+Galaxy+of+Scalable+Software" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SALESFORCE-TRAILBLAZER-00A1E0?style=for-the-badge&labelColor=0B1F2A&logo=salesforce&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GCP-ARCADE%202025-6EE7B7?style=for-the-badge&labelColor=064E3B&logo=googlecloud&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JAVA-DEVELOPER-F97316?style=for-the-badge&labelColor=1F2937&logo=openjdk&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN--SOURCE-LOVER-EC4899?style=for-the-badge&labelColor=3B0A2A&logo=github&logoColor=white" />
+</p>
+
+
+
+
+<img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Divider/movingstar.svg" width="100%" />
+
+
+
+
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&color=9F7AEA&pause=12&duration=750&deleteSpeed=55&width=650&lines=ABOUT++ME;Who+I+Am+?;What+I+Build+?;Why+It+Matters+?" />
+</p>
+
+
+
+
+<table width="100%">
+  <tr>
+    <!-- LEFT: ABOUT / ENGINEERING STATUS -->
+    <td width="65%" valign="top">
+
+<pre>
+🧠 ENGINEERING STATUS
+──────────────────────────────────────────────
+
+👤 Role                : Aspiring Salesforce Developer (AI & Data Cloud)
+🎓 Academic Status     : Undergraduate @ KCE (Class of 2027)
+🧭 Focus Domains       : Salesforce Platform, Agentic AI, Cloud & Analytics
 
  
+⚙️ Core Skill Stack
  
+   ├─ Salesforce       : Apex, LWC, Flows, REST APIs
+   ├─ AI & Automation  : Agentic AI, n8n Workflows
+   ├─ Cloud Platforms  : Google Cloud Platform (GCP)
+   ├─ Data Analytics   : Data Cleaning, Visualization, Insights
+   └─ Backend Concepts : API Security, Bulk Patterns, Scalable Design
+
+</pre>
+
+   </td>
+
+<!-- RIGHT: STATS CARD -->
 
 
-<!-- GitHub Stats Header -->
-<h1 align="center"> 📊 GitHub Stats: </h1>
+  </tr>
+</table>
 
-<!-- Summary Cards -->
-<div align="center">
-    <!-- Profile Details Card -->
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunshiyam&theme=highcontrast" />
-    <!-- Divider GIF -->
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-    <!-- Top Languages Card -->
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varunshiyam&theme=highcontrast" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varunshiyam&theme=highcontrast" />
-    <!-- Divider GIF -->
-    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-    <!-- Stats Card -->
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varunshiyam&theme=highcontrast" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varunshiyam&theme=highcontrast" />
-</div>
 
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- GitHub Streak -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Varunshiyam&theme=highcontrast&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
-</div>
+<!--SKills-->
 
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-
-<!-- Top Languages Summary -->
-<div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunshiyam&show_icons=true&theme=highcontrast&hide_border=true&card_width=500" />
-</div>
-
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Badges Earned-->
-<h2><b>Badges Earned</b></h2>
-
-<h3  align="center"> GSSOC'24<h3></h3>
 <p align="center">
-<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="135">
-<img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=256" width="140">
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png"  width="135">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png"  width="135">
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="42" alt="Salesforce" />
+  <img src="https://skillicons.dev/icons?i=java,python,gcp,js,react,mysql,git,github&theme=dark" />
+  
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h3  align="center"> PR Badges <h3></h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png"  width="200">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png"  width="200">
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png"  width="200">
-</p>
+<!-- Divider GIF -->
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-[![An image of @varunshiyam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varunshiyam)](https://holopin.io/@varunshiyam)
 
 
 
 
+<!--Stats Title-->
 
-
-
-
-
-
-
-
-
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/varunshiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunshiyam" height="30" width="40" /></a>
-<a href="https://kaggle.com/varunshiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="varunshiyam" height="30" width="40" /></a>
-<a href="https://instagram.com/varun_analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_analyst" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunshiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunshiyam" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-
-<!-- Divider GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Visitor Count -->
-   <img src="https://profile-counter.glitch.me/%7BVarunshiyam10%7D/count.svg" alt="visitor badge"/>
-
-<!-- Footer Wave Effect -->
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1200&color=DB2777&width=720&lines=My+Track+Record;My+Stats" />
 </p>
 
 
 
+<!--STATS CARDS -->
+
+     
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Stats_Card/2024-gssoc-galaxy.svg"
+        width="300"
+        alt="2024 GSSOC Foundation" />
+    </td>
+
+   <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Stats_Card/2025-acceleration-galaxy.svg"
+        width="300"
+        alt="2025 Acceleration" />
+    </td>
+
+   <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Stats_Card/2026-expansion-vision.svg"
+        width="300"
+        alt="2026 Expansion Vision" />
+    </td>
+  </tr>
+</table>
 
 
 
------------
-
-## 🌌 Featured Constellations
 
 <p align="center">
-  🚀 🪐 🌠 🌌 ⭐
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Varunshiyam?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Varunshiyam?color=8b5cf6&labelColor=4c1d95&style=for-the-badge&logo=person-add&label=Follow+Me&logoColor=white"
+         alt="GitHub followers" />
+  </a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/Varunshiyam?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Varunshiyam?color=facc15&labelColor=78350f&style=for-the-badge&logo=star&label=Stars+Earned"
+         alt="GitHub stars" />
+  </a>
+
+  <!-- Profile Views -->
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=Varunshiyam&style=for-the-badge&color=22c55e"
+         alt="Profile views" />
+  </a>
+
+  <!-- Open Source Love -->
+  <a href="https://github.com/Varunshiyam">
+    <img src="https://img.shields.io/badge/Open--Source-Lover-ec4899?style=for-the-badge&logo=github&logoColor=white"
+         alt="Open Source Lover" />
+  </a>
+</p>   
+
+
+<img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Divider/star.svg" width="100%" />
+
+
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1100&color=8B5CF6&width=800&lines=PROJECTS;BUILT+FOR+REAL+USERS;ENGINEERED+FOR+SCALE" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-theta-hazel-15.vercel.app/api/pin/?username=Varunshiyam&repo=CAMPUZ__NAVIGATION&bg_color=0b0f1a&border_color=7f5af0&title_color=e0e7ff&text_color=9aa4bf&icon_color=2cb67d" />
-</p>
 
 
-
-
-------
-
-
-## 🌌 Featured Constellations
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/galaxy/featured-campuz.svg"
-    alt="CAMPUZ Navigation Galaxy Card"
-  />
-</p>
-
-
-
-<a href="PROJECT_REPO_URL">
-  <img src="SVG_URL" width="100%" />
-</a>
-
-
-
------
-## 🚀 Projects
 
 <table width="100%">
   <tr>
@@ -196,16 +217,174 @@
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img
-          src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Coming-Soon/coming-soon.svg"
-          alt="Coming Soon"
-          width="100%" />
-      </a>
-    </td>
-  </tr>
 </table>
+
+
+
+<img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Divider/fallingstars.svg" width="100%" />
+
+
+
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1100&color=8B5CF6&width=800&lines=BADGES;DIGITAL+ACHIEVEMENTS;" />
+</p>
+
+
+
+
+
+
+<!-- ================= HOLOPIN ================= -->
+
+
+
+
+<p align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=12pmMsuEglbCdZiSVkQmol-Q-Aj7NvRNy"
+    alt="Holopin Badges"
+    width="100%"
+    style="max-width:900px;border-radius:14px;" />
+</p>
+
+<br/>
+
+<!-- ================= EXPAND ================= -->
+
+
+
+  <br/>
+
+  <!-- ================= GSSOC ================= -->
+  <h3 align="center"
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=D946EF&width=700&lines=GSSOC+2024;" />
+</p>
+
+  </h3>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1-_VRC2gWhK6oDZtsviz1HuXo2I7DhKs3" width="180"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=13unmkIblxnVi_EY_1frQXqYL8IRRv4Yt" width="180"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=16jRehUk2zWJlpupBOvb3sHMNb5IgMMwp" width="180"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=197nW-56tJ1pfcsDoq_ls8AYiy39VdAtN" width="180"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=19yo0b5iND9zXfOOhNDnlD5Iffwia7VfE" width="180"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1TOLn18_a-aMtXSPWSvhgHcHOV10Nz9dr" width="180"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1YcwFsNCnzejC_et_Wcf8jS_cKnfBrp8y" width="180"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1hIewGOo-7kPGG8EWjoNmnXCMwOBYLcjf" width="180"/>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- ================= GITHUB ================= -->
+  <h3 align="center"
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=FACC15&width=700&lines=GITHUB;PULL+REQUEST+CONSISTENCY;" />
+</p>
+
+  </h3>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1C5dLYQxliVU4MJYzgwCZzviN_2j5tyat" width="300"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1Cy7iO9dSOlnT9kJTYlJGz2RCmamJ4ydp" width="300"/>
+      </td>
+      <td align="center">
+        <img src="https://drive.google.com/uc?export=view&id=1_aLYXqITVeyiwt3yzbq5i6IQI3MKrA4F" width=300"/>
+      </td>
+    </tr>
+  </table>
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Divider/star.svg" width="100%" />
+
+
+
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1200&color=EC4899&center=false&vCenter=true&width=600&lines=CONNECT+WITH+ME"
+    alt="Connect With Me"
+  />
+</p>
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/varunshiyam" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3B82F6?style=for-the-badge&labelColor=1E293B&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/varunshiyam" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-0F172A?style=for-the-badge&labelColor=374151&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:varunshiyam.analyst@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EC4899?style=for-the-badge&labelColor=3B0A2A&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Varunshiyam/Assets/main/Divider/fallingstars.svg" width="100%" />
+
+
+
+
+
+
 
 
